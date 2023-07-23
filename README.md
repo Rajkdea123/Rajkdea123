@@ -1,10 +1,8 @@
-░█▀▄░█▀█░█▀▄░█░█░█▀█░█▀▄
-░█░█░█░█░█░█░▄▀▄░█▀▀░█░█
-░▀▀░░▀▀▀░▀▀░░▀░▀░▀▀▀░▀▀░
+───────── C++ & PYTHON ENTHUSIAST ─────────
 
-Hello, fellow coder!
-I'm [Ravindra Yadav],
-A Python & C++ enthusiast,
-Passionate about exploring new technologies.
+         [Ravindra Yadav]
+      Passionate about coding,
+    exploring, and learning new things.
 
-Let's code and learn together!
+       Let's code together!
+
