@@ -1,4 +1,3 @@
-![coding](https://github.com/Rajkdea123/Rajkdea123/assets/98590806/063f7337-d639-445d-9a1d-e61420c1d904)
 <h1 align="center">Hi 👋, I'm Ravindra Yadav</h1>
 <h3 align="center">Passionate about coding and continuously honing my skills to solve real-world challenges,I'm from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
