@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 
-- 💬 Ask me about **Cpp,python**
+- 💬 Ask me about **Cpp,python,kotlin ,dart,flutter,C**
 
 - 📫 How to reach me **ravindrayadav78795@gmail.com**
 
