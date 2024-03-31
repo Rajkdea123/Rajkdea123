@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ravindrayadav78795@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1u09nhiezyZ9B5ftYMnatZfAnBnNH4wBo/view?usp=drivesdk](https://drive.google.com/file/d/1u09nhiezyZ9B5ftYMnatZfAnBnNH4wBo/view?usp=drivesdk)
+- 📄 Resume [https://drive.google.com/file/d/1HfvGQSfFE6NW3Cn2jj4syivPkMFX-iQo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
